@@ -8,4 +8,12 @@ There is also a helpful starter guide at: https://guides.github.com/activities/h
 
 Once you have downloaded the project, depending on the text editor your using.  You can either use the version control within the editor, or through the terminal, command line.
 
+For the purpose of creating the project, I have included three folders; Resources, Layouts and BookingSystem.  
+  * The designs for the site will be uploaded to the Layout folder.
+  * Database structures will be uploaded to the resources folder.
+  * The actual site, itself will be developed within the bookingSystem folder. This currently has a basic index.php file included, so that you can see that the installation of the project worked.
+
+This is a public repository, so no passwords should be uploaded.
+
+
 
