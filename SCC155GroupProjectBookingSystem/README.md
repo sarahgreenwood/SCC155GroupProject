@@ -4,7 +4,7 @@ The page layouts are within the SCC155BookingSystem folder.
 
 File structure:
 	SCC155BookingSystem
-	-- Admin
+	Admin
 		- adminHeader.php
 		- adminFooter.php
 		- staffDashboard.php
